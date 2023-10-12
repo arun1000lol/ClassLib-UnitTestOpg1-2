@@ -1,0 +1,12 @@
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\bin\Debug\net6.0\ClassLib+UnitTestOpg1.deps.json
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\bin\Debug\net6.0\ClassLib+UnitTestOpg1.dll
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\bin\Debug\net6.0\ClassLib+UnitTestOpg1.pdb
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\obj\Debug\net6.0\ClassLib+UnitTestOpg1.csproj.AssemblyReference.cache
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\obj\Debug\net6.0\ClassLib+UnitTestOpg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\obj\Debug\net6.0\ClassLib+UnitTestOpg1.AssemblyInfoInputs.cache
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\obj\Debug\net6.0\ClassLib+UnitTestOpg1.AssemblyInfo.cs
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\obj\Debug\net6.0\ClassLib+UnitTestOpg1.csproj.CoreCompileInputs.cache
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\obj\Debug\net6.0\ClassLib+UnitTestOpg1.dll
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\obj\Debug\net6.0\refint\ClassLib+UnitTestOpg1.dll
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\obj\Debug\net6.0\ClassLib+UnitTestOpg1.pdb
+C:\Users\minka\source\repos\ClassLib+UnitTestOpg1\ClassLib+UnitTestOpg1\obj\Debug\net6.0\ref\ClassLib+UnitTestOpg1.dll
