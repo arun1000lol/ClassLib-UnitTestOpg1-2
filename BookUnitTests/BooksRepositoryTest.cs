@@ -51,12 +51,13 @@ namespace BookUnitTests
             IEnumerable<Book> sortedBooksPriceDesc = _booksRepository.Get(sortBy: "price_desc");
             Assert.AreEqual(649, sortedBooksPriceDesc.First().Price);
         }
+        [TestMethod]
         public void GetByIdTest()
         {
             Assert.IsNotNull(_booksRepository.GetById(1));
             Assert.IsNull(_booksRepository.GetById(33333333));
         }
-
+        [TestMethod]
         public void AddTest()
         {
             Book book = new Book {Title = "6thBookNowWTF", Price = 500 };
