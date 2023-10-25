@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1WjntIz5rDwWwuffS2XDj2Iwk/zmjSdmfk528U/9+cGJ0FSsFua70LWuNcxSvJ3fGQJZWVSUPQAJC+QzkJa7Cg==",
+  "dgSpecHash": "YC9z9B/ukeTGqFLNhoQOdv7xfBx7wDJZaqiJSY6PEr5eIkyCXlMBcka9LAj/hBAU0j+nA6CW8tJtGhcRe+jpnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\BookUnitTests\\BookUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\BookUnitTests\\BookUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\minka\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\minka\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

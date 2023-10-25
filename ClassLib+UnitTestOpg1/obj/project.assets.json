@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj",
+      "projectUniqueName": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj",
       "projectName": "ClassLib+UnitTestOpg1+2",
-      "projectPath": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj",
+      "projectPath": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj",
       "packagesPath": "C:\\Users\\minka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\ClassLib+UnitTestOpg1\\obj\\",
+      "outputPath": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\ClassLib+UnitTestOpg1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\minka\\AppData\\Roaming\\NuGet\\NuGet.Config",

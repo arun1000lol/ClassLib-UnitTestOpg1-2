@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\BookUnitTests\\BookUnitTests.csproj": {}
+    "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\BookUnitTests\\BookUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\BookUnitTests\\BookUnitTests.csproj": {
+    "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\BookUnitTests\\BookUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\BookUnitTests\\BookUnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\BookUnitTests\\BookUnitTests.csproj",
         "projectName": "BookUnitTests",
-        "projectPath": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\BookUnitTests\\BookUnitTests.csproj",
+        "projectPath": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\BookUnitTests\\BookUnitTests.csproj",
         "packagesPath": "C:\\Users\\minka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\BookUnitTests\\obj\\",
+        "outputPath": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\BookUnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj": {
-                "projectPath": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj"
+              "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj": {
+                "projectPath": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj": {
+    "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj",
+        "projectUniqueName": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj",
         "projectName": "ClassLib+UnitTestOpg1+2",
-        "projectPath": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj",
+        "projectPath": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\ClassLib+UnitTestOpg1\\ClassLib+UnitTestOpg1+2.csproj",
         "packagesPath": "C:\\Users\\minka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minka\\source\\repos\\ClassLib+UnitTestOpg1+2\\ClassLib+UnitTestOpg1\\obj\\",
+        "outputPath": "C:\\Users\\minka\\Documents\\VS\\ObligatoriskOpgave5\\ClassLib-UnitTestOpg1-2\\ClassLib+UnitTestOpg1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minka\\AppData\\Roaming\\NuGet\\NuGet.Config",
